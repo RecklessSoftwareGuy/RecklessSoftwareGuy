@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! Welcome to my Github Profile 👋
 
-<!--
-**RecklessSoftwareGuy/RecklessSoftwareGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Rahul, 19 years old.
+- I'm in my first semester of Computer Science Engineering
 
-Here are some ideas to get you started:
+### I'm Currently learning:
+- Python frameworks: Tensorflow, Flutter
+- Javascript
+- Golang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I'm currently/going to work on:
+- Linear Progression
+- Media Player (fancy kind) - flutter
+
+### A Fun Fact:
+- The King of Hearts is the only King in a deck of cards without a moustache.
