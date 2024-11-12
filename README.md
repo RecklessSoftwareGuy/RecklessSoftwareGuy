@@ -3,10 +3,10 @@
 - I'm Rahul, 19 years old.
 - I'm in my first semester of Computer Science Engineering
 
-### I'm Currently learning:
-- Python frameworks: Tensorflow, Flutter
-- Javascript
-- Golang
+### I'm Currently:
+- ~Python frameworks: Tensorflow, Flutter~
+- ~Javascript~
+- ~Golang~
 
 ### Projects I'm currently/going to work on:
 - Linear Progression
