@@ -4,9 +4,10 @@
 - I'm in my first semester of Computer Science Engineering
 
 ### I'm Currently:
-- ~Python frameworks: Tensorflow, Flutter~
-- ~Javascript~
-- ~Golang~
+- ~Learning Python frameworks: Tensorflow, Flutter~
+- ~Practicing Javascript~
+- ~Procrastinating Learning Golang~
+- Studying for Mid-Sems
 
 ### Projects I'm currently/going to work on:
 - Linear Progression
