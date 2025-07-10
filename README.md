@@ -1,7 +1,7 @@
 ## Hi there! Welcome to my Github Profile 👋
 
 - I'm Rahul, 19 years old.
-- I'm in my first semester of Computer Science Engineering
+- I'm ~in my third semester of Computer Science Engineering~ on vacation
 
 ### I'm Currently:
 - Learning Python frameworks: Matplotlib, Tensorflow
