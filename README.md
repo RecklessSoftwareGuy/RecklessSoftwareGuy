@@ -1,13 +1,21 @@
-## Hi there! Welcome to my Github Profile 👋
+# Hey, I'm Rahul! 👋
+3rd-semester CS engineering student passionate about coding and learning new tech. Excited to build projects and grow as a developer!
 
-- I'm Rahul, 19 years old.
-- I'm ~in my third semester of Computer Science Engineering~ on vacation
+## 🔧 Skills
 
-### I'm Currently:
-- Learning Python frameworks: Matplotlib, Tensorflow
+Languages: Python, C, Java (soon)
+Frameworks: discord.py, tkinter
+Tools: Git, VS Code
 
-### Projects I'm currently working on:
-- Machine learning through Linear Progression
+## 🚀 Projects
 
-### A Fun Fact:
--  Leatherback sea turtles have existed in their current form since the age of the dinosaurs!
+[Voice Recorder](https://github.com/RecklessSoftwareGuy/Voice_Recorder): Made during my first semester of college, while exploring tkinter
+[GUI-Calculator](https://github.com/RecklessSoftwareGuy/GUI_Calculator): Also made during my first semester, for a problem solving session
+
+## 📫 Get in Touch
+
+GitHub: RecklessSoftwareGuy
+Email: 
+X: [@RahulBiju_](https://x.com/RahulBiju_)
+
+Feel free to explore my repos and reach out to me!
