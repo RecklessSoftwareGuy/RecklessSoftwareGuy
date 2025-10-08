@@ -15,6 +15,8 @@ Tools: Git, VS Code
 
 [GUI-Calculator](https://github.com/RecklessSoftwareGuy/GUI_Calculator): Also made during my first semester, for a problem solving session
 
+[Implementation of a DFA using C](https://github.com/RecklessSoftwareGuy/Deterministic_Finite_Automata): Made during my third semester of college mostly cause i was bored.
+
 ## 📫 Get in Touch
 
 GitHub: RecklessSoftwareGuy
