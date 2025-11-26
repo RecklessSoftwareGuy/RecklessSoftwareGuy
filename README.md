@@ -23,7 +23,7 @@ Tools: Git, VS Code
 
 GitHub: RecklessSoftwareGuy
 
-Email: rahulbiju512@gmail.com
+Email: 
 
 X: [@RahulBiju_](https://x.com/RahulBiju_)
 
