@@ -1,13 +1,13 @@
 # Hey, I'm Rahul! 👋
-3rd-semester CS engineering student passionate about coding and learning new tech. Excited to build projects and grow as a developer!
+4th-semester CS engineering student passionate about coding and learning new tech. Excited to build projects and grow as a developer!
 
 ## 🔧 Skills
 
-Languages: Python, C, Java (soon)
+Languages: Python, C, Icarus Verilog, Bash
 
 Frameworks: discord.py, tkinter
 
-Tools: Git, VS Code
+Tools: Git, VS Code, Linux (Fedora)
 
 ## 🚀 Projects
 
