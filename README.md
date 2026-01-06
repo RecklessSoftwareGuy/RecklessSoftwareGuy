@@ -13,11 +13,11 @@ Tools: Git, VS Code, Linux (Fedora)
 
 [Who's that pokemon AI Discord Bot](https://github.com/RecklessSoftwareGuy/pokemon-namer-discord-bot): AI-Model to explore "Who's that pokemon" games.
 
-[Voice Recorder](https://github.com/RecklessSoftwareGuy/Voice_Recorder): Made during my first semester of college, while exploring tkinter
+[Voice Recorder](https://github.com/RecklessSoftwareGuy/Voice_Recorder): A Basic voice recorder application to record audio, made using tkinter in python.
 
-[GUI-Calculator](https://github.com/RecklessSoftwareGuy/GUI_Calculator): Also made during my first semester, for a problem solving session
+[GUI-Calculator](https://github.com/RecklessSoftwareGuy/GUI_Calculator): A simple calculator application made using the tkinter library in python
 
-[Implementation of a DFA using C](https://github.com/RecklessSoftwareGuy/Deterministic_Finite_Automata): Made during my third semester of college mostly cause i was bored.
+[Implementation of a DFA using C](https://github.com/RecklessSoftwareGuy/Deterministic_Finite_Automata): Implemented a Definite Finite Automata to solve a particular problem using dynamic memory and pointers in C.
 
 ## 📫 Get in Touch
 
