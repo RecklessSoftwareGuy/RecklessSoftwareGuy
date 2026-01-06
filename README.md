@@ -3,7 +3,7 @@
 
 ## 🔧 Skills
 
-Languages: Python, C, Icarus Verilog, Bash, SQL
+Languages: Python, C, Icarus Verilog, Bash, SQL, MATLAB
 
 Frameworks: discord.py, tkinter
 
