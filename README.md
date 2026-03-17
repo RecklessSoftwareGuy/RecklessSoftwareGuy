@@ -3,9 +3,9 @@
 
 ## 🔧 Skills
 
-Languages: Python, C, Icarus Verilog, Bash, SQL, MATLAB
+Languages: Python, C, Javascript, Icarus Verilog, Bash, SQL, MATLAB
 
-Frameworks: discord.py, tkinter
+Web Frameworks: MongoDB, Express.js, React.js, Next.js
 
 Tools: Git, VS Code, Linux (Fedora)
 
@@ -17,14 +17,12 @@ Tools: Git, VS Code, Linux (Fedora)
 
 [GUI-Calculator](https://github.com/RecklessSoftwareGuy/GUI_Calculator): A simple calculator application made using the tkinter library in python
 
-[Implementation of a DFA using C](https://github.com/RecklessSoftwareGuy/Deterministic_Finite_Automata): Implemented a Definite Finite Automata to solve a particular problem using dynamic memory and pointers in C.
+[Bit-Compress](https://github.com/RecklessSoftwareGuy/bit-compress): Implementation of algorithms used to compress binary data.
 
 ## 📫 Get in Touch
 
 GitHub: RecklessSoftwareGuy
 
-Email: 
-
-X: [@RahulBiju_](https://x.com/RahulBiju_)
+Email: -
 
 Feel free to explore my repos and reach out to me!
