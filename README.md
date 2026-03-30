@@ -13,11 +13,13 @@ Tools: Git, VS Code, Linux (Fedora)
 
 [Who's that pokemon AI Discord Bot](https://github.com/RecklessSoftwareGuy/pokemon-namer-discord-bot): AI-Model to explore "Who's that pokemon" games.
 
-[Voice Recorder](https://github.com/RecklessSoftwareGuy/Voice_Recorder): A Basic voice recorder application to record audio, made using tkinter in python.
+[Bit-Compress](https://github.com/RecklessSoftwareGuy/bit-compress): Implementation of algorithms used to compress binary data.
 
 [GUI-Calculator](https://github.com/RecklessSoftwareGuy/GUI_Calculator): A simple calculator application made using the tkinter library in python
 
-[Bit-Compress](https://github.com/RecklessSoftwareGuy/bit-compress): Implementation of algorithms used to compress binary data.
+[Voice Recorder](https://github.com/RecklessSoftwareGuy/Voice_Recorder): A Basic voice recorder application to record audio, made using tkinter in python.
+
+
 
 ## 📫 Get in Touch
 
