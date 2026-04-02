@@ -17,7 +17,7 @@ Tools: Git, VS Code, Linux (Fedora)
 
 [GUI-Calculator](https://github.com/RecklessSoftwareGuy/GUI_Calculator): A simple calculator application made using the tkinter library in python
 
-[Voice Recorder](https://github.com/RecklessSoftwareGuy/Voice_Recorder): A Basic voice recorder application to record audio, made using tkinter in python.
+[PPTX-PDF-Tools](https://github.com/RecklessSoftwareGuy/pptx-pdf-tools)): A suite of PPTX and PDF tools (conversion and merging).
 
 
 
