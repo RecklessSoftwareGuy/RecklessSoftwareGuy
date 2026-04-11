@@ -15,7 +15,7 @@ Tools: Git, VS Code, Linux (Fedora)
 
 [Bit-Compress](https://github.com/RecklessSoftwareGuy/bit-compress): Implementation of algorithms used to compress `binary data`.
 
-[GUI-Calculator](https://github.com/RecklessSoftwareGuy/libdeck39): A C library to interpret and represent decks of cards in memory using `6-bit encoding` per card. This allows us to store a whole deck of `52` cards in `39 bytes`
+[libdeck39](https://github.com/RecklessSoftwareGuy/libdeck39): A C library to interpret and represent decks of cards in memory using `6-bit encoding` per card. This allows us to store a whole deck of `52` cards in `39 bytes`
 
 [PPTX-PDF-Tools](https://github.com/RecklessSoftwareGuy/pptx-pdf-tools): A suite of `PPTX` and `PDF` tools (conversion and merging).
 
