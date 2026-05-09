@@ -11,7 +11,7 @@ Tools: Git, VS Code, Linux (Fedora)
 
 ## 🚀 Projects
 
-[Gemma-CLI-Agent]([https://github.com/RahulBiju-dev/Gemma-CLI-Agent]): A modular Python CLI wrapper for Ollama allows agents to automate mundane OS tasks.
+[Gemma-CLI-Agent](https://github.com/RahulBiju-dev/Gemma-CLI-Agent): A modular Python CLI wrapper for Ollama allows agents to automate mundane OS tasks.
 
 [Bit-Compress](https://github.com/RahulBiju-dev/bit-compress): Implementation of algorithms used to compress `binary data`.
 
